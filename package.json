@@ -1,9 +1,13 @@
 {
-  "name": "com.Taiyang.sampleunitypackageqqi",
-  "version": "1.0.0",
+  "name": "com.Taiyang.sample-unity-package-qqi",
   "displayName": "Test Package In Unity",
   "description": "A sample GitHub Package In Unity Test.",
+  "version": "1.0.0",
   "unity": "2019.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mob-sakai/SoftMaskForUGUI.git"
+  },
   "dependencies":{
     "name":"version"
   },
