@@ -1,7 +1,7 @@
 {
-  "name": "com.Tai0ang.sampleunitypackageqqi",
+  "name": "com.Tai0ang.sample-unity-packageqqi",
   "version": "1.0.0",
-  "displayName": "Tai0ang Package In Unity",
+  "displayName": "Test Package In Unity",
   "description": "A sample GitHub Package In Unity Test.",
   "unity": "2019.4",
   "author": {
