@@ -1,12 +1,18 @@
 {
-  "name": "com.Tai0ang.sample-unity-packageqqi",
+  "name": "com.Taiyang.sampleunitypackageqqi",
   "version": "1.0.0",
   "displayName": "Test Package In Unity",
   "description": "A sample GitHub Package In Unity Test.",
   "unity": "2019.4",
+  "dependencies":{
+    "name":"version"
+  },
+  "keywords":{
+    "Example"
+  },
   "author": {
-    "name": "Tai0ang",
+    "name": "Taiyang",
     "email": "7879226@qq.com",
     "url": ""
-  }
+  },
 }
