@@ -1,5 +1,6 @@
 {
-  "name": "com.Tai0ang.sampleunitypackageqqi",
+  "name": "com.coffee.sample-unity-package",
+  
   "displayName": "Test Package In Unity",
   "description": "A sample GitHub Package In Unity Test.",
   "version": "1.0.0",
