@@ -4,14 +4,9 @@
   "description": "A sample GitHub Package In Unity Test.",
   "version": "1.0.0",
   "unity": "2019.4",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tai0ang/sample-unity-packageqqi.git"
-  },
-  "dependencies":{},
-  "keywords":{
-    "package"
-  },
+
+ 
+
   "author": {
     "name": "Taiyang",
     "email": "7879226@qq.com",
