@@ -1,0 +1,12 @@
+{
+  "name": "com.Tai0ang.sampleunitypackageqqi",
+  "version": "1.0.0",
+  "displayName": "Tai0ang Package In Unity",
+  "description": "A sample GitHub Package In Unity Test.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Tai0ang",
+    "email": "7879226@qq.com",
+    "url": ""
+  }
+}
